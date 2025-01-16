@@ -1,1 +1,2 @@
 # CODSOFT--Iris-Flower-Classification
+This project implements a machine learning model to classify Iris flowers into three species: Setosa, Versicolor, and Virginica. It utilizes the well-known Iris dataset, applying various algorithms like Logistic Regression, Decision Trees, and SVM. The dataset features 4 attributes: Sepal Length, Sepal Width, Petal Length, and Petal Width. The goal is to predict the flower species based on these attributes. Python libraries like scikit-learn and pandas are used for data processing and model training.
